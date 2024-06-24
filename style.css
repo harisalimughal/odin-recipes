@@ -1,0 +1,28 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    color: green;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+li{
+    
+    text-decoration: none;
+    color: rgb(194, 23, 96);
+}
+
+button{
+    background-color: rgb(194, 23, 96);
+    width: 200px;
+    height: auto;
+    
+}
+
+body{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color:black
+}
+
